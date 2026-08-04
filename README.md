@@ -6,3 +6,5 @@ A test git repository.
 nihao
 aa
 111jj
+苹果
+香蕉
